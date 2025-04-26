@@ -1,5 +1,7 @@
 #🎬 Movie Recommender System
+
 Welcome to the Movie Recommender System!
+
 This project is built to recommend movies to users based on their preferences using machine learning techniques.
 
 📌 Features
