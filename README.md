@@ -16,10 +16,10 @@ Powered by machine learning and Python libraries
 Responsive and clean UI built with Streamlit (or specify your framework if different)
 
 🚀 Demo
-![App Screenshot](screenshot.png](https://github.com/Piyush972004/Movie-Recommender-System/blob/main/Screenshot%202025-04-26%20152529%20-%20Copy.png)
+![App Screenshot]()
 
 
-![App Screenshot]([assets/screenshot.png](https://github.com/Piyush972004/Movie-Recommender-System/blob/main/Screenshot%202025-04-26%20152541%20-%20Copy.png))
+![App Screenshot]([assets/screenshot.png])
 
 
 🛠️ Tech Stack
