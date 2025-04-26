@@ -19,7 +19,7 @@ Responsive and clean UI built with Streamlit (or specify your framework if diffe
 ![App Screenshot]()
 
 
-![App Screenshot]([assets/screenshot.png])
+![App Screenshot]([Screenshot 2025-04-26 152529 - Copy.png])
 
 
 🛠️ Tech Stack
